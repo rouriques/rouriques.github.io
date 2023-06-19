@@ -14,14 +14,14 @@
 
 # Papers
 
-Raquel Ouriques, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). (https://doi.org/10.1142/S0218194019500153)
+Raquel Ouriques, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). <https://doi.org/10.1142/S0218194019500153>
 
-Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). (https://doi.org/10.1016/j.jss.2022.111572)
+Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572)>
 
-Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). (https://doi.org/10.1016/j.infsof.2023.107170)
+Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). <https://doi.org/10.1016/j.infsof.2023.107170>
 
-Raquel Ouriques}, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). (https://doi.org/10.1007/978-3-030-03673-7_30)
+Raquel Ouriques}, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). <https://doi.org/10.1007/978-3-030-03673-7_30>
 
-Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). (https://doi.org/10.48550/arXiv.2306.05755)
+Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). <https://doi.org/10.48550/arXiv.2306.05755>
 
-Raquel Ouriques}, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). (https://doi.org/10.48550/arXiv.2306.05742)
+Raquel Ouriques}, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
