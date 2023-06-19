@@ -5,8 +5,8 @@ relative_links:
   enabled: true
   collections: true
 
-title: My title here
-description: Text in small font under the title
-author: I don't know where the author name goes
+title: Managing Knowledge Resources in Agile Software Development
+description: Doctoral thesis content
+author: Raquel Ouriques
 include:
   - research_summary.md

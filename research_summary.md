@@ -1,11 +1,25 @@
-This page contains a research abstract
+**Objective**: This thesis aims to contribute to, first, materialising knowledge resources in agile software project environments, incorporating organisational principles into the software engineering literature. Second, provide guidance on effectively managing knowledge resources.
 
-# Chapter 2
+**Method**: We follow mostly the qualitative paradigm to investigate knowledge resource management. We adhere to social constructivism research, which notes that social phenomena undergo constant changes and are affected by human interaction. As qualitative and quantitative methods of investigation, we utilised literature reviews, grounded theory, survey and a case study.
 
-# Chapter 3
+**Results**: This thesis provides an empirical understanding of knowledge resources. We synthesised evidence from the literature to show the proportions of knowledge management practices utilised in ASD environments and the knowledge process they focus on. Through a grounded theory study, we identified KBRs that support changes in agile environments in the Knowledge-push theory. In this same study, we identified inefficiencies in converting KBRs into PBRs. This evidence led us to a case study in which we investigated the causes and effects of trust in BAs. The results have contributed to understanding the favourable factors that make stakeholders feel confident in utilising BAs and also pointed to the implication of decreased trust in software projects. Such negative implications can be mitigated by applying our developed and validated guideline that supports the creation of BAs in software engineering, which was perceived as being able to increase the trustworthiness of BAs.  
 
-# Chapter 4
+**Conclusions**: We clarify the concept of KBRs, identify them, and explain how they support changes in agile contexts. In this process, we uncover the inefficiencies in converting KBRs into PBRs. We also provide guidance on effectively managing knowledge resources in software project environments, which can be helpful for software organisations. For example, (i) understanding how trust aspects such as reliability, predictability, and functionality affect practitioners' confidence in BAs, (ii) providing a structured guideline that helps practitioners create BAs, (iii) incorporating more formal practices to manage BAs that do not necessarily abandon agile flexibility to deal with changes. 
 
-# Chapter 5
+# Research Questions and Papers
 
-# Chapter 6
+![Tux, the Linux mascot](figure/RQsandGaps.png)
+
+# Papers
+
+Raquel Ouriques, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). https://doi.org/10.1142/S0218194019500153
+
+Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). https://doi.org/10.1016/j.jss.2022.111572
+
+Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). https://doi.org/10.1016/j.infsof.2023.107170
+
+Raquel Ouriques}, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). https://doi.org/10.1007/978-3-030-03673-7_30
+
+Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). https://doi.org/10.48550/arXiv.2306.05755
+
+Raquel Ouriques}, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). https://doi.org/10.48550/arXiv.2306.05742
