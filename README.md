@@ -16,7 +16,8 @@
 
 **P1** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). <https://doi.org/10.1142/S0218194019500153>
 
-**P2** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572>
+**P2** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572> 
+<button name="pdf" onclick="/pdfs/p2_kbr.pdf">PDF</button>
 
 **P3** - **Raquel** **Ouriques**, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). <https://doi.org/10.1016/j.infsof.2023.107170>
 
