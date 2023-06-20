@@ -15,16 +15,31 @@
 # Papers
 
 **P1** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). <https://doi.org/10.1142/S0218194019500153>
+<form method="get" action="pdfs/p1_slr.pdf">
+   <button type="submit">PDF</button>
+</form>
 
 **P2** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572> 
-<form method="get" action="pdfs/p1_slr.pdf">
-   <button type="submit">Download!</button>
+<form method="get" action="pdfs/p2_kbr.pdf">
+   <button type="submit">PDF</button>
 </form>
 
 **P3** - **Raquel** **Ouriques**, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). <https://doi.org/10.1016/j.infsof.2023.107170>
+<form method="get" action="pdfs/p3_trust.pdf">
+   <button type="submit">PDF</button>
+</form>
 
 **P4** - **Raquel** **Ouriques**, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). <https://doi.org/10.1007/978-3-030-03673-7_30>
+<form method="get" action="pdfs/p4_profes.pdf">
+   <button type="submit">PDF</button>
+</form>
 
 **P5** - **Raquel** **Ouriques**, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). <https://doi.org/10.48550/arXiv.2306.05755>
+<form method="get" action="pdfs/p5_guideline.pdf">
+   <button type="submit">PDF</button>
+</form>
 
 **P6** - **Raquel** **Ouriques**, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
+<form method="get" action="pdfs/p6_ieee.pdf">
+   <button type="submit">PDF</button>
+</form>
