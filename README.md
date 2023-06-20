@@ -1,6 +1,6 @@
-**Context**:
+**Context**: Many software companies adopt Agile Software Development (ASD) principles through various methods, aiming to respond rapidly to the changes. Agile principles prioritise informal communication between their members and down-prioritise documentation to bring more flexibility and readiness when welcoming changes, posing pressure on how knowledge, a strategic resource, is shared and applied. In these contexts, many of these knowledge resources remain intangible, which poses challenges to resource management because knowledge is difficult to reproduce and manage, requiring lots of effort to understand what should remain tacit and what should be captured into artefacts. 
 
-**Objective**: This thesis aims to contribute to, first, materialising knowledge resources in agile software project environments, incorporating organisational principles into the software engineering literature. Second, provide guidance on effectively managing knowledge resources.
+**Objective**: This thesis aims to contribute to materialising knowledge resources in agile software project environments and provide guidance on effectively managing them.
 
 **Method**: We follow mostly the qualitative paradigm to investigate knowledge resource management. We adhere to social constructivism research, which notes that social phenomena undergo constant changes and are affected by human interaction. As qualitative and quantitative methods of investigation, we utilised literature reviews, grounded theory, survey and a case study.
 
@@ -10,18 +10,18 @@
 
 # Research Questions and Papers
 
-![Tux, the Linux mascot](figure/RQsandGaps.png)
+![Tux, the Linux mascot](figure/RQsGaps.png)
 
 # Papers
 
-**P1** - Raquel Ouriques, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). <https://doi.org/10.1142/S0218194019500153>
+**P1** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "Knowledge Management Strategies and Processes in Agile Software Development: A Systematic Literature Review"  *International Journal of Software Engineering and Knowledge Engineering*, 29(3): 345–380, (2019). <https://doi.org/10.1142/S0218194019500153>
 
-**P2** - Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572>
+**P2** - **Raquel** **Ouriques**, Krzysztof Wnuk, Tony Gorschek, and Richard Berntsson Svensson. "The role of knowledge-based resources in Agile Software Development contexts" *Journal of Systems and Software*, 197, 111572, (2023). <https://doi.org/10.1016/j.jss.2022.111572>
 
-**P3** - Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). <https://doi.org/10.1016/j.infsof.2023.107170>
+**P3** - **Raquel** **Ouriques**, Fabian Fagerholm, Daniel Mendez, and Baldvin G. Bern. "An investigation of causes and effects of trust in Boundary Artefacts". *Information and Software Technology Journal*, 158, 107170, (2023). <https://doi.org/10.1016/j.infsof.2023.107170>
 
-**P4** - Raquel Ouriques}, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). <https://doi.org/10.1007/978-3-030-03673-7_30>
+**P4** - **Raquel** **Ouriques**, Krzysztof Wnuk, Richard Berntsson-Svensson and Tony Gorschek. "Thinking Strategically About Knowledge Management in Agile Software Development." *In Kuhrmann M. et al. (eds) Product-Focused Software Process Improvement. PROFES 2018. Lecture Notes in Computer Science*, LNCS 11271, 389–395, (2018). <https://doi.org/10.1007/978-3-030-03673-7_30>
 
-**P5** - Raquel Ouriques}, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). <https://doi.org/10.48550/arXiv.2306.05755>
+**P5** - **Raquel** **Ouriques**, Fabian Fagerholm, Daniel Mendez, Tony Gorschek, and Baldvin G. Bern. "Preliminary Guideline for Creating Boundary Artefacts in Software Engineering". *Submitted to Information and Software Technology Journal (Under review)*, IEEE, (2023). <https://doi.org/10.48550/arXiv.2306.05755>
 
-**P6** - Raquel Ouriques}, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
+**P6** - **Raquel** **Ouriques**, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
