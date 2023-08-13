@@ -47,7 +47,7 @@
 # Draft of the thesis
 
 **Managing Knowledge Resources in Agile Software Development**
-<form method="get" action="pdfs/.pdf">
+<form method="get" action="pdfs/Thesis.pdf">
    <button type="submit">PDF</button>
 </form>
 
