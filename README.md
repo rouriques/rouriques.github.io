@@ -43,3 +43,13 @@
 <form method="get" action="pdfs/p6_ieee.pdf">
    <button type="submit">PDF</button>
 </form>
+
+# Draft of the thesis
+
+**Managing Knowledge Resources in Agile Software Development**
+<form method="get" action="pdfs/.pdf">
+   <button type="submit">PDF</button>
+</form>
+
+
+
