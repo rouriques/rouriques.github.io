@@ -39,7 +39,7 @@
    <button type="submit">PDF</button>
 </form>
 
-**P6** - **Raquel** **Ouriques**, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to IEEE Software Magazine (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
+**P6** - **Raquel** **Ouriques**, Tony Gorschek, Daniel Mendez, Fabian Fagerholm. "Connecting the Dots of Knowledge in Agile Software Development". *Submitted to Communications of the ACM (Under review)*, IEEE Software, (2023). <https://doi.org/10.48550/arXiv.2306.05742>
 <form method="get" action="pdfs/p6_ieee.pdf">
    <button type="submit">PDF</button>
 </form>
